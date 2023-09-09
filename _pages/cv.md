@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Microelectronics science and engineering, Fudan University, 2020
+* M.S. in Integrated circuit and system design, Fudan University, 2023
+* Ph.D in Electronical engineering, KU Leuven, 2028 (expected)
 
-Work experience
+See detailed CV in [pdf](/files/cv_xiaolingyi.pdf).
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,17 +27,17 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
+   -->
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
