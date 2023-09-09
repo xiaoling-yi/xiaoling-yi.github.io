@@ -16,6 +16,7 @@ Education
 * Ph.D in Electronical engineering, KU Leuven, 2028 (expected)
 
 See detailed CV in [pdf](/files/cv_xiaolingyi.pdf).
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
