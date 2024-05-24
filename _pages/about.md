@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the MICAS [research group](https://micas.esat.kuleuven.be/team/xiaoling-yi) at KU Leuven currently, under the supervision of Prof. [Marian Verhelst](https://micas.esat.kuleuven.be/team/marian-verhelst), with a research interest in heterogeneous SoC exploration and generation. 
+I am currently a Ph.D. student at the [MICAS](https://micas.esat.kuleuven.be/) research group at KU Leuven, under the supervision of Prof. [Marian Verhelst](https://micas.esat.kuleuven.be/team/marian-verhelst), with a research interest in heterogeneous SoC exploration and generation. 
 
 I received my Bachelor's Degree in Microelectronics science and engineering and a Master's Degree in Integrated circuit and system design from Fudan University, China in 2020 and 2023, respectively, where I worked closely with Prof. [Fan Yang](https://sme.fudan.edu.cn/65/41/c31277a353601/page.htm) and Prof. [Li Shang](https://cscw.fudan.edu.cn/lishang/list.htm) in the field of Microprocessor and DNN Accelerator Hardware Design Space Exploration. 
 During the last half year of my Master, I was lucky to do a research internship at DAMO Academy, Alibaba Group, and learned a lot from Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie).
