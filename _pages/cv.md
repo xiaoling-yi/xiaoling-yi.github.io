@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Microelectronics science and engineering, Fudan University, 2020
-* M.S. in Integrated circuit and system design, Fudan University, 2023
 * Ph.D in Electronical engineering, KU Leuven, 2028 (expected)
+* M.S. in Integrated circuit and system design, Fudan University, 2023
+* B.S. in Microelectronics science and engineering, Fudan University, 2020
 
 See detailed CV in [pdf](/files/cv_xiaolingyi.pdf).
 

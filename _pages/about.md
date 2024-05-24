@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the MICAS research group at KU Leuven, under the supervision of Prof. Marian Verhelst, with a research interest in multi-core accelerators. 
+I am a Ph.D. student at the MICAS [research group](https://micas.esat.kuleuven.be/team/xiaoling-yi) at KU Leuven currently, under the supervision of Prof. [Marian Verhelst](https://micas.esat.kuleuven.be/team/marian-verhelst), with a research interest in heterogeneous SoC exploration and generation. 
 
-I received my Bachelor's Degree in Microelectronics science and engineering from Fudan University, China, and a Master's Degree in Integrated circuit and system design from Fudan University, China in 2020 and 2023, respectively. The subject of my master's thesis was Research on Microprocessor and DNN Accelerator Hardware Design Space Exploration Methodology.
+I received my Bachelor's Degree in Microelectronics science and engineering and a Master's Degree in Integrated circuit and system design from Fudan University, China in 2020 and 2023, respectively, where I worked closely with Prof. [Fan Yang](https://sme.fudan.edu.cn/65/41/c31277a353601/page.htm) and Prof. [Li Shang](https://cscw.fudan.edu.cn/lishang/list.htm) in the field of Microprocessor and DNN Accelerator Hardware Design Space Exploration. 
+During the last half year of my Master, I was lucky to do a research internship at DAMO Academy, Alibaba Group, and learned a lot from Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie).
 
-
+News
+======
+* May, 2024: We hosted a Convolve tutorial and introduced our heterogeneous accelerator-centric compute cluster [SNAX](https://github.com/KULeuven-MICAS/snax_cluster)
+* I started my PhD at KU Leuven MICAS!
+* I graduated from Fudan University as a honorable student!
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
