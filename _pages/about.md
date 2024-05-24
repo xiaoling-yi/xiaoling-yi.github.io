@@ -15,8 +15,8 @@ During the last half year of my Master, I was lucky to do a research internship 
 
 News
 ======
-* May, 2024: We hosted a Convolve tutorial and introduced our heterogeneous accelerator-centric compute cluster [SNAX](https://github.com/KULeuven-MICAS/snax_cluster)
-* Spe., 2023: I started my PhD at KU Leuven MICAS!
+* May, 2024: We hosted a [Convolve](https://convolve.eu/) tutorial and introduced our heterogeneous accelerator-centric compute cluster [SNAX](https://github.com/KULeuven-MICAS/snax_cluster)
+* Sep., 2023: I started my PhD at KU Leuven MICAS!
 * Jun., 2023: I graduated from Fudan University as a honorable student!
 
 <!-- 
