@@ -15,7 +15,7 @@ Education
 * M.S. in Integrated circuit and system design, Fudan University, 2023
 * B.S. in Microelectronics science and engineering, Fudan University, 2020
 
-See detailed CV in [pdf](/files/cv_xiaolingyi.pdf).
+See detailed CV in [pdf](/files/cv_visa_kul.pdf).
 
 <!-- Work experience
 ======
